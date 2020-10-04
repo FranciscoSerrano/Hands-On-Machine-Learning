@@ -1,1 +1,1 @@
-# ML-housing-prices-CA
+# Hands on Machine Learning
